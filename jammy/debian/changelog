@@ -1,3 +1,9 @@
+gz-msgs11 (11.0.1-1~jammy) jammy; urgency=medium
+
+  * gz-msgs11 11.0.1-1 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Thu, 10 Oct 2024 20:09:08 +0200
+
 gz-msgs11 (11.0.0-1~jammy) jammy; urgency=medium
 
   * gz-msgs11 11.0.0-1 release
