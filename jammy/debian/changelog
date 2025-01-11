@@ -1,3 +1,9 @@
+gz-msgs11 (11.0.2-1~jammy) jammy; urgency=medium
+
+  * gz-msgs11 11.0.2-1 release
+
+ -- Steve Peters <scpeters@openrobotics.org>  Fri, 10 Jan 2025 16:50:08 -0800
+
 gz-msgs11 (11.0.1-1~jammy) jammy; urgency=medium
 
   * gz-msgs11 11.0.1-1 release
