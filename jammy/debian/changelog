@@ -1,3 +1,9 @@
+gz-msgs11 (11.1.0-1~jammy) jammy; urgency=medium
+
+  * gz-msgs11 11.1.0-1 release
+
+ -- Ian Chen <ichen@openrobotics.org>  Fri, 09 May 2025 22:23:05 +0000
+
 gz-msgs11 (11.0.2-1~jammy) jammy; urgency=medium
 
   * gz-msgs11 11.0.2-1 release
