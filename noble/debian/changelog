@@ -1,3 +1,9 @@
+gz-msgs11 (11.2.0-1~noble) noble; urgency=medium
+
+  * gz-msgs11 11.2.0-1 release
+
+ -- Carlos Agüero <caguero@honurobotics.com>  Thu, 13 Aug 2026 19:25:05 +0200
+
 gz-msgs11 (11.1.0-1~noble) noble; urgency=medium
 
   * gz-msgs11 11.1.0-1 release
